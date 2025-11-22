@@ -1,0 +1,8 @@
+{
+  "name": "Support Agent Devcontainer",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:1": {}
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
