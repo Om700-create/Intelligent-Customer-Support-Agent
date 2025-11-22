@@ -1,5 +1,3 @@
-# Intelligent-Customer-Support-Agent
-
 # Intelligent Customer Support Agent (Hugging Face Inference API)
 
 This project is a complete scaffold for an Intelligent Customer Support Agent using the free Hugging Face Inference API.
